@@ -1,0 +1,18 @@
+.container {
+  /* display: flex;
+  align-items: flex-start;
+  padding-top: 5px; */
+  border: black;
+  padding-right: 10px;
+}
+
+.label {
+  padding-top: 5px;
+  justify-content: center;
+}
+
+.checkbox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

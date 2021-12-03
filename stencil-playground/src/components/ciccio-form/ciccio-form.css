@@ -1,0 +1,17 @@
+.form {
+  width: 300px;
+}
+
+.title {
+  font-size: x-large;
+  font-style: normal;
+}
+
+.title-holder {
+  justify-items: center;
+}
+
+.checkbox-list {
+  display: flex;
+  align-items: flex-start;
+}
