@@ -27,7 +27,7 @@ export class CiccioForm {
     this.nodeUrl = '';
     this.isValidator = false;
     this.isArchive = false;
-    this.isMonitor = false;
+    this.isMonitor = true;
 
   }
 
